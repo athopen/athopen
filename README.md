@@ -1,4 +1,4 @@
-# Hi 👋,
+# Hi 👋
 _I am Andreas, a software developer specialized in developing ecommerce-solutions._
 
 - 👀 I’m interested in ecommerce, coding and community.
