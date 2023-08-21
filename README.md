@@ -1,8 +1,8 @@
-# Hi there, I'm Andreas
-_I'm a software software developer specialized in eCommerce_
+# Hi 👋,
+_I am Andreas, a software developer specialized in developing ecommerce-solutions._
 
-- 👀 I’m interested in E-commerce, Coding and Community.
-- 👨‍💻 I work as a Senior Developer at [Towa](https://www.towa-digital.com/)
+- 👀 I’m interested in ecommerce, coding and community.
+- 👨‍💻 I work as a senior developer at [Towa](https://www.towa-digital.com/)
 
 ## 🤝 Connect with me:
 
