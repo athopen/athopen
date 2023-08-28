@@ -1,8 +1,8 @@
 # Hi 👋
 _I am Andreas, a software developer specialized in developing ecommerce-solutions._
 
-- 👀 I’m interested in ecommerce, coding and community.
-- 👨‍💻 I work as a senior developer at [Towa](https://www.towa-digital.com/)
+- 👀 ... interested in ecommerce, coding and community.
+- 👨‍💻 ... working as a senior developer at [Towa](https://www.towa-digital.com/)
 
 ## 🔭 I’m currently working on
 - [NOS decorators](https://github.com/project-nos/decorators) - ...a library to help you develop spryker frontend components fast and easy.
