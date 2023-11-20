@@ -10,7 +10,15 @@ _I am Andreas, a software developer specialized in developing ecommerce-solution
 
 ## 💡 Talks and Presentations
 
-- 🖥️ [User Group October '23: NOS Decorators - Fast and easy development of Web-Components in Yves](https://www.youtube.com/watch?v=xlj8PyusT00)
+- [User Group October '23: NOS Decorators - Fast and easy development of Web-Components in Yves](https://www.youtube.com/watch?v=xlj8PyusT00)
+
+## 📖 Articles (German)
+
+- [Das war die Spryker Excite 2023](https://www.towa-digital.com/blog-post/spryker-excite-2023/)
+- [Spryker Frontend Architektur](https://www.towa-digital.com/blog-post/spryker-frontend-architektur-headless-vs-monolith/)
+- [So bestehen Sie die Spryker Certified Developer Zertifizierung](https://www.towa-digital.com/blog-post/so-besteht-man-die-spryker-certified-developer-foundations-zertifizierung/)
+- [Spryker Multistore Setup](https://www.towa-digital.com/blog-post/spryker-multistore-setup/)
+- [Von Magento zu Spryker](https://www.towa-digital.com/blog-post/von-magento-zu-spryker/)
 
 
 ## 🤝 Connect with me:
