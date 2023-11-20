@@ -8,6 +8,11 @@ _I am Andreas, a software developer specialized in developing ecommerce-solution
 - [NOS decorators](https://github.com/project-nos/decorators) - ...a library to help you develop custom Web Components fast and easy.
 - [NOS eslint config](https://github.com/project-nos/eslint-config) - ..a more restrictive eslint ruleset for your spryker project.
 
+## 💡 Talks and Presentations
+
+- 🖥️ [User Group October '23: NOS Decorators - Fast and easy development of Web-Components in Yves](https://www.youtube.com/watch?v=xlj8PyusT00)
+
+
 ## 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://at.linkedin.com/in/andreas-penz-4549811a2)
