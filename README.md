@@ -7,6 +7,7 @@ _I am Andreas, a software developer specialized in developing ecommerce-solution
 ## 🔭 I’m currently working on
 - [NOS decorators](https://github.com/project-nos/decorators) - ...a library to help you develop custom Web Components fast and easy.
 - [NOS eslint config](https://github.com/project-nos/eslint-config) - ..a more restrictive eslint ruleset for your spryker project.
+- [NOS spryker twig code sniffer](https://github.com/project-nos/spryker-twig-code-sniffer). ...a package that aims to be for twig in spryker what phpcs is to php.
 
 ## 💡 Talks and Presentations
 
