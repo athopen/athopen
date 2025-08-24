@@ -2,7 +2,7 @@
 _I am Andreas, a software developer specialized in developing ecommerce-solutions._
 
 - 👀 ... interested in ecommerce, coding and community.
-- 👨‍💻 ... working as a senior developer at [Barracuda](https://www.barracuda.com/)
+- 👨‍💻 ... working as a senior developer at [Meusburger](https://www.meusburger.com/)
 
 ## 🔭 I’m currently working on
 - [NOS decorators](https://github.com/project-nos/decorators) - ...a library to help you develop custom Web Components fast and easy.
